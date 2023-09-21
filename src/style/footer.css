@@ -1,0 +1,18 @@
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #86b2f3;
+  }
+  
+  .social-icons a {
+    margin: 0 10px;
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #007BFF;
+  }
+  

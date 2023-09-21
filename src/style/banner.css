@@ -1,0 +1,19 @@
+.banner {
+    background-color: #86b2f3;
+    color: white;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .banner-content {
+    color: white;
+  }
+  
+  .banner-content h1 {
+    font-size: 3rem;
+  }
+  
+  .banner-content p {
+    font-size: 1.5rem;
+  }
+  
